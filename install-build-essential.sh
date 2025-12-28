@@ -2,6 +2,8 @@
 
 sudo apt-get update -y
 sudo apt-get install wget curl aria2 -y
-sudo apt-get install build-essential g++-arm-linux-gnueabi g++-aarch64-linux-gnu bc llvm -y
+sudo apt-get install build-essential g++-arm-linux-gnueabi g++-aarch64-linux-gnu bc -y
+sudo apt-get install clang
+sudo apt-get install llvm
 
 # linex Project
