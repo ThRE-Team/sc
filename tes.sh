@@ -13,7 +13,7 @@ x) clear; exit; break;;
 1) echo 'menu'; break;;
 2) echo 'linex Project'; break;;
 *) echo 'What??
-Try Again ^_^'; esac; done; return
+Try Again ^_^'; esac; done; 
 
 if [ "$1" = tes ]; then
 echo 'tes'
